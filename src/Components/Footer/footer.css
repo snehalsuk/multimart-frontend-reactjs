@@ -1,0 +1,59 @@
+.footer_logo{
+    text-align: center;
+    padding: 20px;
+    background: rgb(69, 69, 75);
+    
+
+}
+.footer_register{
+    padding: 12px;
+    background: rgb(69, 69, 75);
+}
+.footer_copyright{
+
+    background: rgb(69, 69, 75);
+}
+.footer_nav{
+
+    display: flex;
+   font-size: 20px;
+   
+}
+
+.footer_home{
+    padding: 15px;
+    text-decoration: none;
+    color:white;
+    padding-left: 10px;
+
+}
+.footer_features{
+    padding: 15px;
+    text-decoration: none;
+    color:white;
+}
+.footer_pricing{
+    padding: 15px;
+    text-decoration: none;
+    color:white;
+}
+.register_free{
+    color:white;
+    
+
+
+}
+.register{
+    text-align: center;
+    padding-right: 30px;
+    padding:5px;
+   
+}
+.footer_copy{
+    text-align: center;
+    color: white;
+}
+.footer_text{
+    text-decoration: none;
+}
+
